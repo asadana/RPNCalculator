@@ -1,0 +1,9 @@
+C:\workspace\Visual Studio 2013\Projects\RPNCalculator\RPNCalculator\bin\Debug\RPNCalculator.exe.config
+C:\workspace\Visual Studio 2013\Projects\RPNCalculator\RPNCalculator\bin\Debug\RPNCalculator.exe
+C:\workspace\Visual Studio 2013\Projects\RPNCalculator\RPNCalculator\bin\Debug\RPNCalculator.pdb
+C:\workspace\Visual Studio 2013\Projects\RPNCalculator\RPNCalculator\obj\Debug\RPNCalculator.csprojResolveAssemblyReference.cache
+C:\workspace\Visual Studio 2013\Projects\RPNCalculator\RPNCalculator\obj\Debug\RPNCalculator.frmRPNCalculator.resources
+C:\workspace\Visual Studio 2013\Projects\RPNCalculator\RPNCalculator\obj\Debug\RPNCalculator.Properties.Resources.resources
+C:\workspace\Visual Studio 2013\Projects\RPNCalculator\RPNCalculator\obj\Debug\RPNCalculator.csproj.GenerateResource.Cache
+C:\workspace\Visual Studio 2013\Projects\RPNCalculator\RPNCalculator\obj\Debug\RPNCalculator.exe
+C:\workspace\Visual Studio 2013\Projects\RPNCalculator\RPNCalculator\obj\Debug\RPNCalculator.pdb
